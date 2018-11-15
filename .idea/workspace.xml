@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4774524-c523-427e-9f0e-6f1595aa4637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7基本数据类型之Set/1.Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7基本数据类型之Set/2.Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7基本数据类型之Set/3.Set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,24 +15,35 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/myProject$3_List.coverage" NAME="3.List Coverage Results" MODIFIED="1541604273062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4基本数据类型之List" />
-    <SUITE FILE_PATH="coverage/myProject$1_String.coverage" NAME="1.String Coverage Results" MODIFIED="1541517719723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.基本数据类型之String" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$2_Tuple.coverage" NAME="2.Tuple Coverage Results" MODIFIED="1542043473323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5基本数据类型之Tuple" />
     <SUITE FILE_PATH="coverage/learnPythonEasily$2_String.coverage" NAME="2.String Coverage Results" MODIFIED="1541605938553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3基本数据类型之String" />
     <SUITE FILE_PATH="coverage/myProject$bool.coverage" NAME="bool Coverage Results" MODIFIED="1541438266183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/myProject$4_String.coverage" NAME="4.String Coverage Results" MODIFIED="1541522405511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.基本数据类型之String" />
     <SUITE FILE_PATH="coverage/learnPythonEasily$4_List.coverage" NAME="4.List Coverage Results" MODIFIED="1541605934529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4基本数据类型之List" />
-    <SUITE FILE_PATH="coverage/myProject$2_List.coverage" NAME="2.List Coverage Results" MODIFIED="1541602576199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4基本数据类型之List" />
-    <SUITE FILE_PATH="coverage/myProject$4_List.coverage" NAME="4.List Coverage Results" MODIFIED="1541605511410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4基本数据类型之List" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$3_Dictionary.coverage" NAME="3.Dictionary Coverage Results" MODIFIED="1541695085100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5基本数据类型之Dictionary" />
     <SUITE FILE_PATH="coverage/myProject$1_helloworld.coverage" NAME="1.helloworld Coverage Results" MODIFIED="1541349992486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/myProject$5_String.coverage" NAME="5.String Coverage Results" MODIFIED="1541524326003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.基本数据类型之String" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$3_Tuple.coverage" NAME="3.Tuple Coverage Results" MODIFIED="1542043586715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5基本数据类型之Tuple" />
     <SUITE FILE_PATH="coverage/myProject$2_String.coverage" NAME="2.String Coverage Results" MODIFIED="1541518753578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.基本数据类型之String" />
-    <SUITE FILE_PATH="coverage/myProject$int.coverage" NAME="int Coverage Results" MODIFIED="1541435504532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/myProject$complex.coverage" NAME="complex Coverage Results" MODIFIED="1541511012661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myProject$1_String.coverage" NAME="1.String Coverage Results" MODIFIED="1541517719723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.基本数据类型之String" />
+    <SUITE FILE_PATH="coverage/myProject$4_String.coverage" NAME="4.String Coverage Results" MODIFIED="1541522405511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.基本数据类型之String" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$1_Set.coverage" NAME="1.Set Coverage Results" MODIFIED="1542297773274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7基本数据类型之Set" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$4_numberPractice.coverage" NAME="4.numberPractice Coverage Results" MODIFIED="1542218969395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2基本数据类型之Number练习" />
+    <SUITE FILE_PATH="coverage/myProject$2_List.coverage" NAME="2.List Coverage Results" MODIFIED="1541602576199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4基本数据类型之List" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$1_Dictionary.coverage" NAME="1.Dictionary Coverage Results" MODIFIED="1541690275308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5基本数据类型之Dictionary" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$3_Set.coverage" NAME="3.Set Coverage Results" MODIFIED="1542299315144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7基本数据类型之Set" />
+    <SUITE FILE_PATH="coverage/myProject$4_List.coverage" NAME="4.List Coverage Results" MODIFIED="1541605511410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4基本数据类型之List" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$2_Dictionary.coverage" NAME="2.Dictionary Coverage Results" MODIFIED="1541695093155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5基本数据类型之Dictionary" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$2_Set.coverage" NAME="2.Set Coverage Results" MODIFIED="1542298551469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7基本数据类型之Set" />
+    <SUITE FILE_PATH="coverage/myProject$int.coverage" NAME="int Coverage Results" MODIFIED="1541435504532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/myProject$3_String.coverage" NAME="3.String Coverage Results" MODIFIED="1541522085587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.基本数据类型之String" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$1_Tuple.coverage" NAME="1.Tuple Coverage Results" MODIFIED="1542043343542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5基本数据类型之Tuple" />
     <SUITE FILE_PATH="coverage/myProject$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1541350337560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/myProject$1_List.coverage" NAME="1.List Coverage Results" MODIFIED="1541601014538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4基本数据类型之List" />
     <SUITE FILE_PATH="coverage/myProject$2_numberPractice.coverage" NAME="2.numberPractice Coverage Results" MODIFIED="1541517568081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.基本数据类型之Number练习" />
     <SUITE FILE_PATH="coverage/myProject$1_numberPractice.coverage" NAME="1.numberPractice Coverage Results" MODIFIED="1541515220586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.基本数据类型之Number练习" />
     <SUITE FILE_PATH="coverage/myProject$float.coverage" NAME="float Coverage Results" MODIFIED="1541438256410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/learnPythonEasily$3_numberPractice.coverage" NAME="3.numberPractice Coverage Results" MODIFIED="1542218081155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2基本数据类型之Number练习" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-888483293">
@@ -69,20 +83,34 @@
     <session id="1545277345">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="Dictionary" value="1" />
+          <entry key="easy_install" value="1" />
+          <entry key="py" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="60" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2016" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2016" />
         </counts>
       </usages-collector>
     </session>
@@ -93,10 +121,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3基本数据类型之String/2.String.py">
+        <entry file="file://$PROJECT_DIR$/7基本数据类型之Set/3.Set.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="551">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -127,6 +155,17 @@
         <option value="$PROJECT_DIR$/4基本数据类型之List/2.List.py" />
         <option value="$PROJECT_DIR$/4基本数据类型之List/3.List.py" />
         <option value="$PROJECT_DIR$/4基本数据类型之List/4.List.py" />
+        <option value="$PROJECT_DIR$/5基本数据类型之Dictionary/1.Dictionary.py" />
+        <option value="$PROJECT_DIR$/5基本数据类型之Dictionary/3.Dictionary.py" />
+        <option value="$PROJECT_DIR$/5基本数据类型之Dictionary/2.Dictionary.py" />
+        <option value="$PROJECT_DIR$/5基本数据类型之Tuple/1.Tuple.py" />
+        <option value="$PROJECT_DIR$/5基本数据类型之Tuple/2.Tuple.py" />
+        <option value="$PROJECT_DIR$/5基本数据类型之Tuple/3.Tuple.py" />
+        <option value="$PROJECT_DIR$/2基本数据类型之Number练习/3.numberPractice.py" />
+        <option value="$PROJECT_DIR$/2基本数据类型之Number练习/4.numberPractice.py" />
+        <option value="$PROJECT_DIR$/7基本数据类型之Set/1.Set.py" />
+        <option value="$PROJECT_DIR$/7基本数据类型之Set/2.Set.py" />
+        <option value="$PROJECT_DIR$/7基本数据类型之Set/3.Set.py" />
       </list>
     </option>
   </component>
@@ -137,10 +176,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="164" />
-    <option name="y" value="58" />
-    <option name="width" value="1013" />
-    <option name="height" value="933" />
+    <option name="x" value="524" />
+    <option name="y" value="23" />
+    <option name="width" value="1385" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -162,6 +201,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <sortByType ProjectPane="true" />
@@ -174,6 +216,21 @@
             <path>
               <item name="learnPythonEasily" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnPythonEasily" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPythonEasily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPythonEasily" type="462c0819:PsiDirectoryNode" />
+              <item name="5基本数据类型之Tuple" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPythonEasily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPythonEasily" type="462c0819:PsiDirectoryNode" />
+              <item name="6基本数据类型之Dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnPythonEasily" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnPythonEasily" type="462c0819:PsiDirectoryNode" />
+              <item name="7基本数据类型之Set" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,8 +264,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.String">
-    <configuration name="1.List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3.Set">
+    <configuration name="1.Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,12 +273,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4基本数据类型之List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7基本数据类型之Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4基本数据类型之List/1.List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7基本数据类型之Set/1.Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +287,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,12 +295,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4基本数据类型之List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7基本数据类型之Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4基本数据类型之List/2.List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7基本数据类型之Set/2.Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3.Set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,12 +317,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3基本数据类型之String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7基本数据类型之Set" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3基本数据类型之String/2.String.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7基本数据类型之Set/3.Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +331,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3.numberPractice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,12 +339,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4基本数据类型之List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2基本数据类型之Number练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4基本数据类型之List/3.List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2基本数据类型之Number练习/3.numberPractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +353,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4.numberPractice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="myProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,12 +361,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4基本数据类型之List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2基本数据类型之Number练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4基本数据类型之List/4.List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2基本数据类型之Number练习/4.numberPractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,19 +376,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1.List" />
-      <item itemvalue="Python.2.List" />
-      <item itemvalue="Python.3.List" />
-      <item itemvalue="Python.4.List" />
-      <item itemvalue="Python.2.String" />
+      <item itemvalue="Python.3.numberPractice" />
+      <item itemvalue="Python.4.numberPractice" />
+      <item itemvalue="Python.1.Set" />
+      <item itemvalue="Python.2.Set" />
+      <item itemvalue="Python.3.Set" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.String" />
-        <item itemvalue="Python.4.List" />
-        <item itemvalue="Python.3.List" />
-        <item itemvalue="Python.2.List" />
-        <item itemvalue="Python.1.List" />
+        <item itemvalue="Python.3.Set" />
+        <item itemvalue="Python.2.Set" />
+        <item itemvalue="Python.1.Set" />
+        <item itemvalue="Python.4.numberPractice" />
+        <item itemvalue="Python.3.numberPractice" />
       </list>
     </recent_temporary>
   </component>
@@ -349,14 +406,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="164" y="58" width="1013" height="933" extended-state="0" />
+    <frame x="524" y="23" width="1385" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.3707518" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.19210722" />
       <window_info id="Structure" order="1" sideWeight="0.5037037" side_tool="true" weight="0.3761062" />
       <window_info id="Favorites" order="2" sideWeight="0.5037037" side_tool="true" weight="0.3761062" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37336504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28704664" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -420,6 +478,101 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.基本数据类型之Number练习/3.numberPractice.py" />
+    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/5.String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/4.String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/3.String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/2.String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/1.String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env/bin/easy_install">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/4.List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6基本数据类型之Dictionary/3.Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6基本数据类型之Dictionary/2.Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/1.List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/3.List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/2.List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5基本数据类型之Tuple/2.Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5基本数据类型之Tuple/3.Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2基本数据类型之Number练习/1.numberPractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -434,67 +587,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.基本数据类型之Number练习/3.numberPractice.py" />
-    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/1.String.py">
+    <entry file="file://$PROJECT_DIR$/2基本数据类型之Number练习/3.numberPractice.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/3.String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/5.String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/1.List.py">
+    <entry file="file://$PROJECT_DIR$/2基本数据类型之Number练习/4.numberPractice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/2.List.py">
+    <entry file="file://$PROJECT_DIR$/7基本数据类型之Set/1.Set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="399">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/3.List.py">
+    <entry file="file://$PROJECT_DIR$/7基本数据类型之Set/2.Set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4基本数据类型之List/4.List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/4.String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3基本数据类型之String/2.String.py">
+    <entry file="file://$PROJECT_DIR$/5基本数据类型之Tuple/1.Tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6基本数据类型之Dictionary/1.Dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7基本数据类型之Set/3.Set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
